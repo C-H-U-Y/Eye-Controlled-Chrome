@@ -2,7 +2,7 @@
 Selenium powered web instance that interprets brain waves from eye movements read by Backyard Brains 'brainbox', classifies the eye movements as left, right or blink and then passes those instructions as commands to chrome via selenium.
 
 ## Outcome
-Developed as a social tool to connect those with restricted lower body and limb movement to social netwroking, this human-machine interface achieved 100% accuracy in the final product demonstration. Successfuly logging in to facebook, navigating to a groupchat and sending an emoji, all commanded by eye movements. The engineering of this system overcame many challenges such as:
+Developed as a social tool to connect those with restricted lower body and limb movement to social networking, this human-machine interface achieved 100% accuracy in the final product demonstration. Succesfuly logging in to facebook, navigating to a groupchat and sending an emoji, all commanded by eye movements. The engineering of this system overcame many challenges such as:
 - The need for text controls and navigation controls overcome by introducing dynamic mode shifting
 - Linking selenium up with live input signals overcome by utilising concurrent processes and asynchronous programming
 - Mapping eye movements to text was overcome by implement a practical morse code solution
